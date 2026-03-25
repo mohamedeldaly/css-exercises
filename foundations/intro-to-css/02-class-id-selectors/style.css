@@ -1,6 +1,6 @@
 /* Add CSS Styling */
 .odd {
-    background-color: pink;
+    background-color: rgb(241, 125, 145);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #second {
@@ -9,4 +9,9 @@
 }
 .third {
     font-size: 24px;
+}
+#fourth {
+    background-color: rgb(12, 201, 12);
+    font-size: 24px;
+    font-weight: bold;
 }
